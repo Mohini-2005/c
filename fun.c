@@ -46,4 +46,8 @@ void multi(int a,int b){
 void div(int a,int b){
    
     printf("%d\n",a/b);
-}
+}  
+
+
+
+
