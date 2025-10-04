@@ -35,6 +35,4 @@ sub(10,12);//args - actual values
 //     printf("%d\n",a-b);
 // }
 
-int get10(){
-    
-}
+int geuyui
