@@ -1,9 +1,8 @@
 #include<stdio.h>
-int fact(int);
 int main()
 {
- int ans = fact(89);
- printf("\n%d",ans);
+ int ans = fact(3);
+ printf("%d",ans);
 }
  int fact(int n){
     if(n==0){
