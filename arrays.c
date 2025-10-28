@@ -8,8 +8,7 @@ marks[2]=70;
 marks[3]=85;      
 marks[4]=75;      
       
-for(i=0;i<5;i++){        
-printf("%d \n",marks[i]);      
+ind;      
 }      
 return 0;    
 }  
