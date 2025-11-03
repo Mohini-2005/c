@@ -7,4 +7,7 @@ printf("Address of p variable is %u \n",p);
 p=p+1;        
 printf("After increment: Address of p variable is %u \n",p);      
  
-}   
+}   0
+
+
+ 
